@@ -1,0 +1,3 @@
+.banner {
+    position: relative; /* position relative faz com que os filhos da classe banner se posicionem relativamente a ele. Por exemplo, na classe filha banner__titulo, position é absolute (absoluta a posição da classe pai banner).*/
+}
