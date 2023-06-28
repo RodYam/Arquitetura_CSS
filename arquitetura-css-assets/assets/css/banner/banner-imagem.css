@@ -1,4 +1,10 @@
 .banner__imagem {
-    width: 100%;
+    background: url('../../img/banner.jpg') no-repeat center / cover; /* Forma mais curta de escrever todos os estilos do background */
+
+    /* background-image: url('../../img/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
     height: calc(100vh - 72px);
+    width: 100%;
 }
